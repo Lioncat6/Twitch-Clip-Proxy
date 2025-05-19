@@ -1,0 +1,26 @@
+{
+  "name": "twitch-clip-proxy",
+  "version": "1.0.0",
+  "description": "Proxy to archive twitch clips for wikis and simular applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lioncat6/Twitch-Clip-Proxy.git"
+  },
+  "keywords": [
+    "Twitch",
+    "Clip",
+    "Proxy",
+    "Archive",
+    "Wiki"
+  ],
+  "author": "Lioncat6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lioncat6/Twitch-Clip-Proxy/issues"
+  },
+  "homepage": "https://github.com/lioncat6/Twitch-Clip-Proxy#readme"
+}
