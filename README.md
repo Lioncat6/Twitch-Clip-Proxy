@@ -2,7 +2,9 @@
 ## To Run:
 
 `sudo apt install ffmpeg`
+
 `npm install`
+
 `npm start`
 
   
