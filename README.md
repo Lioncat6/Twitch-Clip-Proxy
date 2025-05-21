@@ -2,8 +2,8 @@
 Urls should be formatted as `http(s)://<root>/<twitch clip ID/twitch clip URL>`
 
 ### Examples:
-*`https://cliparchive.example.com/https://www.twitch.tv/ivycomb/clip/AbnegateCrazyClipsdadKevinTurtle-vk_Spe6R93eXjdia`
-*`https://cliparchive.example.com/AbnegateCrazyClipsdadKevinTurtle-vk_Spe6R93eXjdia`
+* `https://cliparchive.example.com/https://www.twitch.tv/ivycomb/clip/AbnegateCrazyClipsdadKevinTurtle-vk_Spe6R93eXjdia`
+* `https://cliparchive.example.com/AbnegateCrazyClipsdadKevinTurtle-vk_Spe6R93eXjdia`
 
 ### Functionality:
 The proxy functions as follows:
